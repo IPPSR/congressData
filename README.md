@@ -21,7 +21,7 @@ library(devtools)
 install_github("caleblucas/congressData")
 ```
 
-## Loading the CSPP Data
+## Loading the Congress Data
 
 Note that the `congress` package imports the dataset automatically and
 provides a number of helpful functions when working with it.
