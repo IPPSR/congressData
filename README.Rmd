@@ -45,7 +45,7 @@ data("congress")
 
 Run `get_congress_version` to see what version of the dataset is currently in `congressData`
 
-```{r, eval=F}
+```{r}
 
 congressData::get_congress_version()
 

@@ -21,7 +21,7 @@ library(devtools)
 install_github("ippsr/congressData")
 ```
 
-## Loading the Congress Data
+## Loading the CSPP Data
 
 Note that the `congress` package imports the dataset automatically and
 provides a number of helpful functions when working with it.
@@ -41,6 +41,7 @@ currently in `congressData`
 
 ``` r
 congressData::get_congress_version()
+#> [1] "You are using version 1.0 of Congress Data."
 ```
 
 # Citation
