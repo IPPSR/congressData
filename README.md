@@ -7,10 +7,10 @@
 dataset assembled by Matt Grossmann, Caleb Lucas, Josh McCrain, and Ian
 Ostrander. It compiles approximately 800 variables concerning all US
 congressional districts and covers 1789-2021. Use the associated
-[congress](https://github.com/correlatesstatepolicy/cspp) package to
-subset the data by states + years and export citations to common file
-formats (e.g. bib). An associated [web
-application](https://congress.ippsr.msu.edu/) that enables easy
+[congress](https://github.com/ippsr/congress) package to subset the data
+by states + years and export citations to common file formats
+(e.g. bib). An associated [web
+application](https://congress.ippsr.msu.edu/congress/) that enables easy
 manipulation and exploration of the data is also available.
 
 ## Downloading the Package
@@ -18,7 +18,7 @@ manipulation and exploration of the data is also available.
 ``` r
 # Install from github
 library(devtools)
-install_github("caleblucas/congressData")
+install_github("ippsr/congressData")
 ```
 
 ## Loading the Congress Data
@@ -34,8 +34,21 @@ data("codebook")
 data("congress")
 ```
 
+## Check Congress Data’s version
+
+Run `get_congress_version` to see what version of the dataset is
+currently in `congressData`
+
+``` r
+congressData::get_congress_version()
+```
+
 # Citation
 
+In addition to citing each variable’s source, we ask that you cite
+`Congress Data` if use it or this package. A recommended citation is
+below.
+
 > Grossmann, M., Lucas, C., McCrain, J, & Ostrander, I. (2022). The
-> Correlates of Congressional Action Dataset. East Lansing, MI:
-> Institute for Public Policy and Social Research (IPPSR)
+> Congress Data. East Lansing, MI: Institute for Public Policy and
+> Social Research (IPPSR)
