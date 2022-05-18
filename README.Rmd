@@ -29,7 +29,9 @@ install_github("ippsr/congressData")
 
 ## Loading the CSPP Data
 
-Note that the `congress` package imports the dataset automatically and provides a number of helpful functions when working with it. You can load the dataset with the `data` function. A number of aggregations of the base member-year dataset (along with subsets) to member-sessions are also available. See the manual for documentation: 
+Note that the `congress` package imports the dataset automatically and provides a number of helpful functions when working with it. You can load the dataset with the `data` function. 
+
+A number of aggregations of the base member-year dataset (along with subsets) to member-sessions are also available. See the manual for documentation: [congressData manual](congressData_1.0_manual.pdf)
 
 ```{r eval=F}
 
