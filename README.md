@@ -3,7 +3,7 @@
 
 # Data Only: The Congress Data <img src="figures/congressData.png" height="150" align="right"/>
 
-**congressData** is an R package that contains *Congress Data*, a
+`congressData` is an R package that contains **Congress Data**, a
 dataset assembled by Matt Grossmann, Caleb Lucas, Josh McCrain, and Ian
 Ostrander. It compiles approximately 800 variables concerning all US
 congressional districts and covers 1789-2021. Use the associated
@@ -54,8 +54,8 @@ documentation: [congressData manual](congressData_1.0_manual.pdf)
 ## Citation
 
 In addition to citing each variable’s source, we ask that you cite
-`Congress Data` if use it or this package. A recommended citation is
-below.
+Congress Data if use the dataset or this package. A recommended citation
+is below.
 
 > Grossmann, M., Lucas, C., McCrain, J, & Ostrander, I. (2022). The
 > Congress Data. East Lansing, MI: Institute for Public Policy and
