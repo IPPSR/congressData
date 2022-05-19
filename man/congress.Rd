@@ -5,7 +5,7 @@
 \alias{congress}
 \title{The Congress Data (Institute for Public Policy and Social Research (IPPSR) at Michigan State University)}
 \format{
-An object of class \code{tbl_df} (inherits from \code{tbl}, \code{data.frame}) with 74974 rows and 813 columns.
+An object of class \code{tbl_df} (inherits from \code{tbl}, \code{data.frame}) with 74973 rows and 789 columns.
 }
 \usage{
 congress
