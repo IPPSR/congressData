@@ -1,6 +1,6 @@
-#' Get your local version of Congress Data
+#' Get your local version of CongressData
 #'
-#' \code{get_congress_version} prints the local version of Congress Data stored on your machine. It takes no arguments.
+#' \code{get_congress_version} prints the local version of CongressData stored on your machine. It takes no arguments.
 #'
 #' @name get_congress_version
 #'
@@ -8,7 +8,7 @@
 #'
 
 get_congress_version <- function(){
-  print("You are using version 1.0 of Congress Data.")
+  print("You are using version 1.0 of CongressData.")
 }
 
 

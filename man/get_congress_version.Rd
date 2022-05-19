@@ -2,10 +2,10 @@
 % Please edit documentation in R/get_congress_version.R
 \name{get_congress_version}
 \alias{get_congress_version}
-\title{Get your local version of Congress Data}
+\title{Get your local version of CongressData}
 \usage{
 get_congress_version()
 }
 \description{
-\code{get_congress_version} prints the local version of Congress Data stored on your machine. It takes no arguments.
+\code{get_congress_version} prints the local version of CongressData stored on your machine. It takes no arguments.
 }

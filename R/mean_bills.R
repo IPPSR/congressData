@@ -1,6 +1,6 @@
-#'  The Congress Data (Institute for Public Policy and Social Research (IPPSR) at Michigan State University)
+#'  CongressData (Institute for Public Policy and Social Research (IPPSR) at Michigan State University)
 #'
-#'  The bills portion of the Congress Data dataset (version 1), aggregated to the member-session level using means of yearly data.
+#'  The bills portion of CongressData (version 1), aggregated to the member-session level using means of yearly data.
 #'
 #'  @name mean_bills
 #'
