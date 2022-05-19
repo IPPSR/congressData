@@ -13,6 +13,16 @@ by states + years and export citations to common file formats
 application](https://congress.ippsr.msu.edu/congress/) that enables easy
 manipulation and exploration of the data is also available.
 
+## The Congress Data Codebook and Manual
+
+The Congress Data codebook is available in this repo
+[here](congress_codebook_1.pdf).
+
+A number of aggregations of the base member-year dataset (along with
+subsets) to member-sessions are also available. See the manual for
+documentation of every object in this package: [congressData
+manual](congressData_1.0_manual.pdf).
+
 ## Downloading the Package
 
 ``` r
@@ -44,12 +54,6 @@ currently in `congressData`
 congressData::get_congress_version()
 #> [1] "You are using version 1.0 of Congress Data."
 ```
-
-## Read the Manual
-
-A number of aggregations of the base member-year dataset (along with
-subsets) to member-sessions are also available. See the manual for
-documentation: [congressData manual](congressData_1.0_manual.pdf)
 
 ## Citation
 
