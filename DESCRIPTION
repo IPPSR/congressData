@@ -3,6 +3,7 @@ Type: Package
 Title: Data Only: The Congress Data
 Version: 1.0
 Author: Caleb Lucas (https://caleblucas.com/)
+Maintainer: Caleb Lucas <calebjlucas@gmail.com>
 Description: Contains the Congress Data dataset (+ codebook) assembled by Matt Grossmann, Caleb Lucas, Josh McCrain, and Ian Ostrander. The dataset compiles approximately 800 variables concerning all US congressional districts and covers 1789-2021.
 License: GPL-3
 Encoding: UTF-8
