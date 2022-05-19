@@ -25,10 +25,7 @@ install_github("ippsr/congressData")
 
 Note that the `congress` package imports the dataset automatically and
 provides a number of helpful functions when working with it. You can
-load the dataset with the `data` function. A number of aggregations of
-the base member-year dataset (along with subsets) to member-sessions are
-also available. See the manual for documentation: [congressData
-manual](./congressData_1.0_manual.pdf)
+load the dataset with the `data` function.
 
 ``` r
 # Congress codebook
@@ -48,7 +45,13 @@ congressData::get_congress_version()
 #> [1] "You are using version 1.0 of Congress Data."
 ```
 
-# Citation
+## Read the Manual
+
+A number of aggregations of the base member-year dataset (along with
+subsets) to member-sessions are also available. See the manual for
+documentation: [congressData manual](congressData_1.0_manual.pdf)
+
+## Citation
 
 In addition to citing each variable’s source, we ask that you cite
 `Congress Data` if use it or this package. A recommended citation is
