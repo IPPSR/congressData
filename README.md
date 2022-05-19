@@ -16,12 +16,13 @@ manipulation and exploration of the data is also available.
 ## The Congress Data Codebook and Manual
 
 The Congress Data codebook is available in this repo
-[here](congress_codebook_1.pdf).
+<a href="https://raw.githubusercontent.com/IPPSR/congressData/main/congress_codebook_1.pdf" target="_blank">here</a>.
 
 A number of aggregations of the base member-year dataset (along with
 subsets) to member-sessions are also available. See the manual for
-documentation of every object in this package: [congressData
-manual](congressData_1.0_manual.pdf).
+documentation of every object in this package:
+<a href="https://raw.githubusercontent.com/IPPSR/congressData/main/congressData_1.0_manual.pdf" target="_blank">congressData
+manual</a>.
 
 ## Downloading the Package
 
