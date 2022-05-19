@@ -53,7 +53,7 @@ currently in `congressData`
 
 ``` r
 congressData::get_congress_version()
-#> [1] "You are using version 1.0 of Congress Data."
+#> [1] "You are using version 1.0 of CongressData."
 ```
 
 ## Citation
