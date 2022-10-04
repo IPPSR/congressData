@@ -12,7 +12,6 @@ knitr::opts_chunk$set(
   out.width = "100%"
 )
 ```
-
 # Data Only: The CongressData Dataset <img src="figures/congressData.png" height="150" align="right"/>
 
 `congressData` is an R package that contains **CongressData**, a dataset assembled by Matt Grossmann, Caleb Lucas, Josh McCrain, and Ian Ostrander. It compiles approximately 800 variables concerning all US congressional districts and covers 1789-2021. Use the associated [congress](https://github.com/ippsr/congress) package to subset the data by states + years and export citations to common file formats (e.g. bib). An associated [web application](https://congress.ippsr.msu.edu/congress/) that enables easy manipulation and exploration of the data is also available.
