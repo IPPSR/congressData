@@ -11,7 +11,7 @@ An object of class \code{tbl_df} (inherits from \code{tbl}, \code{data.frame}) w
 codebook
 }
 \description{
-The codebook for the CongressData dataset (version 1) assembled by Matt Grossmann, Caleb Lucas, Josh McCrain, and Ian Ostrander (2022). Each observation is a member-year.
+The codebook for the CongressData dataset (version 1.1) assembled by Matt Grossmann, Caleb Lucas, Josh McCrain, and Ian Ostrander (2022). Each observation is a member-year.
 }
 \details{
 @name codebook

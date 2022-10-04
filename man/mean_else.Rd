@@ -5,13 +5,13 @@
 \alias{mean_else}
 \title{CongressData (Institute for Public Policy and Social Research (IPPSR) at Michigan State University)}
 \format{
-An object of class \code{tbl_df} (inherits from \code{tbl}, \code{data.frame}) with 37692 rows and 145 columns.
+An object of class \code{tbl_df} (inherits from \code{tbl}, \code{data.frame}) with 40168 rows and 145 columns.
 }
 \usage{
 mean_else
 }
 \description{
-The 'all other variables' portion of CongressData (version 1), aggregated to the member-session level means of yearly data.
+The 'all other variables' portion of CongressData (version 1.1), aggregated to the member-session level means of yearly data.
 }
 \details{
 @name mean_else

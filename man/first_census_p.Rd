@@ -5,13 +5,13 @@
 \alias{first_census_p}
 \title{CongressData (Institute for Public Policy and Social Research (IPPSR) at Michigan State University)}
 \format{
-An object of class \code{tbl_df} (inherits from \code{tbl}, \code{data.frame}) with 37692 rows and 171 columns.
+An object of class \code{tbl_df} (inherits from \code{tbl}, \code{data.frame}) with 40168 rows and 171 columns.
 }
 \usage{
 first_census_p
 }
 \description{
-The percent Census variables portion of CongressData (version 1), aggregated to the member-session level using the first value of member-session-years.
+The percent Census variables portion of CongressData (version 1.1), aggregated to the member-session level using the first value of member-session-years.
 }
 \details{
 @name first_census_p
