@@ -58,6 +58,9 @@ currently in `congressData`
 congressData::get_congress_version()
 #> [1] "You are using version 1.1 of CongressData."
 ```
+## Contact
+
+For questions about congressData please reach out to Ben Yoel (yoelbenj@msu.edu).
 
 ## Citation
 
