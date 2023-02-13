@@ -10,7 +10,7 @@ congressional districts and covers 1789-2021. Use the associated
 [congress](https://github.com/ippsr/congress) package to subset the data
 by states + years and export citations to common file formats
 (e.g. bib). An associated [web
-application](https://congress.ippsr.msu.edu/congress/) that enables easy
+application](https://cspp.ippsr.msu.edu/congress/) that enables easy
 manipulation and exploration of the data is also available.
 
 ## The CongressData Codebook and Manual
