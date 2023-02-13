@@ -2,7 +2,10 @@ Package: congressData
 Type: Package
 Title: Data Only: The CongressData Dataset
 Version: 1.2
-Author: Ashtaan Rapanos
+Authors@R: c(
+    person("Caleb", "Lucas", role = c("aut", "cre")),
+    person("Ashtaan", "Rapanos", role = "aut")
+  )
 Maintainer: Ben Yoel <yoelbenj@msu.edu>
 Description: Contains the CongressData dataset (+ codebook) assembled by Matt Grossmann, Caleb Lucas, Josh McCrain, and Ian Ostrander. The dataset is comprised of member-years, though member-session data is also available, and combines hundreds of variables from numerous sources. Individual variable coverage varies, but the dataset includes information regarding all congressional districts between 1789-2021. Specifically, the dataset tracks characteristics of congressional districts, the members of congress themselves, and the behavior of those members in policymaking.
 License: GPL-3
