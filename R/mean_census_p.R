@@ -1,6 +1,6 @@
 #'  CongressData (Institute for Public Policy and Social Research (IPPSR) at Michigan State University)
 #'
-#'  The percent Census variables portion of CongressData (version 1.1), aggregated to the member-session level using means of yearly data.
+#'  The percent Census variables portion of CongressData (version 1.2), aggregated to the member-session level using means of yearly data.
 #'
 #'  @name mean_census_p
 #'

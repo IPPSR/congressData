@@ -11,7 +11,7 @@ An object of class \code{tbl_df} (inherits from \code{tbl}, \code{data.frame}) w
 mean_else
 }
 \description{
-The 'all other variables' portion of CongressData (version 1.1), aggregated to the member-session level means of yearly data.
+The 'all other variables' portion of CongressData (version 1.2), aggregated to the member-session level means of yearly data.
 }
 \details{
 @name mean_else
