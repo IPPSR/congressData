@@ -1,6 +1,6 @@
 #'  CongressData (Institute for Public Policy and Social Research (IPPSR) at Michigan State University)
 #'
-#'  The committee variables portion of CongressData (version 1.2), aggregated to the member-session level using means of yearly data.
+#'  The committee variables portion of CongressData (version 1.3), aggregated to the member-session level using means of yearly data.
 #'
 #'  @name mean_com
 #'

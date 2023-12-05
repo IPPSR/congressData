@@ -11,7 +11,7 @@ An object of class \code{tbl_df} (inherits from \code{tbl}, \code{data.frame}) w
 sum_bills
 }
 \description{
-The bills portion of CongressData (version 1.2), aggregated to the member-session level using sums of yearly data.
+The bills portion of CongressData (version 1.3), aggregated to the member-session level using sums of yearly data.
 }
 \details{
 @name sum_bills

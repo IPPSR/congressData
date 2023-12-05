@@ -11,7 +11,7 @@ An object of class \code{tbl_df} (inherits from \code{tbl}, \code{data.frame}) w
 sum_census_np
 }
 \description{
-The non-percent Census variables portion of CongressData (version 1.2), aggregated to the member-session level using sums of yearly data.
+The non-percent Census variables portion of CongressData (version 1.3), aggregated to the member-session level using sums of yearly data.
 }
 \details{
 @name sum_census_np

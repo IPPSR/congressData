@@ -11,7 +11,7 @@ An object of class \code{tbl_df} (inherits from \code{tbl}, \code{data.frame}) w
 first_census_np
 }
 \description{
-The non-percent Census variables portion of CongressData (version 1.2), aggregated to the member-session level using the first value of member-session-years.
+The non-percent Census variables portion of CongressData (version 1.3), aggregated to the member-session level using the first value of member-session-years.
 }
 \details{
 @name first_census_np

@@ -11,7 +11,7 @@ An object of class \code{tbl_df} (inherits from \code{tbl}, \code{data.frame}) w
 mean_census_p
 }
 \description{
-The percent Census variables portion of CongressData (version 1.2), aggregated to the member-session level using means of yearly data.
+The percent Census variables portion of CongressData (version 1.3), aggregated to the member-session level using means of yearly data.
 }
 \details{
 @name mean_census_p

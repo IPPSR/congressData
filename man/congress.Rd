@@ -5,13 +5,13 @@
 \alias{congress}
 \title{The CongressData Dataset (Institute for Public Policy and Social Research (IPPSR) at Michigan State University)}
 \format{
-An object of class \code{tbl_df} (inherits from \code{tbl}, \code{data.frame}) with 79880 rows and 789 columns.
+An object of class \code{tbl_df} (inherits from \code{tbl}, \code{data.frame}) with 79880 rows and 898 columns.
 }
 \usage{
 congress
 }
 \description{
-The CongressData dataset (version 1.2) assembled by Matt Grossmann, Caleb Lucas, Josh McCrain, and Ian Ostrander (2022). Each observation is a member-year. Please cite: Grossmann, M., Lucas, C., McCrain, J, & Ostrander, I. (2022). CongressData. East Lansing, MI: Institute for Public Policy and Social Research (IPPSR)
+The CongressData dataset (version 1.3) assembled by Matt Grossmann, Caleb Lucas, Josh McCrain, and Ian Ostrander (2022). Each observation is a member-year. Please cite: Grossmann, M., Lucas, C., McCrain, J, & Ostrander, I. (2022). CongressData. East Lansing, MI: Institute for Public Policy and Social Research (IPPSR)
 }
 \details{
 @name congress

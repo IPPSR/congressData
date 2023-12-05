@@ -5,13 +5,13 @@
 \alias{codebook}
 \title{The CongressData Codebook (Institute for Public Policy and Social Research (IPPSR) at Michigan State University)}
 \format{
-An object of class \code{tbl_df} (inherits from \code{tbl}, \code{data.frame}) with 773 rows and 16 columns.
+An object of class \code{tbl_df} (inherits from \code{tbl}, \code{data.frame}) with 882 rows and 16 columns.
 }
 \usage{
 codebook
 }
 \description{
-The codebook for the CongressData dataset (version 1.2) assembled by Matt Grossmann, Caleb Lucas, Josh McCrain, and Ian Ostrander (2022). Each observation is a member-year.
+The codebook for the CongressData dataset (version 1.3) assembled by Matt Grossmann, Caleb Lucas, Josh McCrain, and Ian Ostrander (2022). Each observation is a member-year.
 }
 \details{
 @name codebook
