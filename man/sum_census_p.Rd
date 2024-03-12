@@ -5,13 +5,13 @@
 \alias{sum_census_p}
 \title{CongressData (Institute for Public Policy and Social Research (IPPSR) at Michigan State University)}
 \format{
-An object of class \code{tbl_df} (inherits from \code{tbl}, \code{data.frame}) with 40168 rows and 171 columns.
+An object of class \code{tbl_df} (inherits from \code{tbl}, \code{data.frame}) with 41203 rows and 171 columns.
 }
 \usage{
 sum_census_p
 }
 \description{
-The non-percent Census variables portion of CongressData (version 1.3), aggregated to the member-session level using sums of yearly data.
+The non-percent Census variables portion of CongressData (version 1.4), aggregated to the member-session level using sums of yearly data.
 }
 \details{
 @name sum_census_p

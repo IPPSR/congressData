@@ -8,7 +8,7 @@
 #'
 
 get_congress_version <- function(){
-  print("You are using version 1.3 of CongressData.")
+  print("You are using version 1.4 of CongressData.")
 }
 
 
