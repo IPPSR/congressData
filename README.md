@@ -5,7 +5,7 @@
 
 `congressData` is an R package that contains **CongressData**, a dataset
 assembled by Matt Grossmann, Caleb Lucas, Josh McCrain, and Ian
-Ostrander. It compiles approximately 800 variables concerning all US
+Ostrander. It compiles approximately 900 variables concerning all US
 congressional districts and covers 1789-2021. Use the associated
 [congress](https://github.com/ippsr/congress) package to subset the data
 by states + years and export citations to common file formats
@@ -16,12 +16,12 @@ manipulation and exploration of the data is also available.
 ## The CongressData Codebook and Manual
 
 The CongressData codebook is available in this repo
-<a href="https://raw.githubusercontent.com/IPPSR/congressData/main/congress_codebook_1_1.pdf" target="_blank">here</a>.
+<a href="https://raw.githubusercontent.com/IPPSR/congressData/main/congress_codebook_1_4.pdf" target="_blank">here</a>.
 
 A number of aggregations of the base member-year dataset (along with
 subsets) to member-sessions are also available. See the manual for
 documentation of every object in this package:
-<a href="https://raw.githubusercontent.com/IPPSR/congressData/main/congressData_1.1_manual.pdf" target="_blank">congressData
+<a href="https://raw.githubusercontent.com/IPPSR/congressData/main/congressData_1.4_manual.pdf" target="_blank">congressData
 manual</a>.
 
 ## Downloading the Package
@@ -56,11 +56,13 @@ currently in `congressData`
 ``` r
 
 congressData::get_congress_version()
-#> [1] "You are using version 1.1 of CongressData."
+#> [1] "You are using version 1.4 of CongressData."
 ```
+
 ## Contact
 
-For questions about congressData please reach out to Ben Yoel (yoelbenj@msu.edu).
+For questions about congressData please reach out to Ben Yoel
+(<yoelbenj@msu.edu>).
 
 ## Citation
 
